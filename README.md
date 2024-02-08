@@ -1,4 +1,8 @@
 # difhel's rising on MX Linux 23 (XFCE)
+## Where do we start?
+- OS: MX Linux 23 Libretto (based on Debian 12 Bookworm) - midweight stable Linux distro
+- Desktop environment (DE): XFCE4
+- Compositor: moved from default xfwm4 to [picom](https://github.com/yshui/picom), fork of [compton](https://github.com/chjj/compton) - a lightweight and powerful compositor for X11
 ## What's shipped in?
 - window rounded corners
 - background blur for XFCE Terminal and all applications that uses RGBA background
