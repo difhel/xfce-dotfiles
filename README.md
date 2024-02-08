@@ -7,6 +7,11 @@
 - Mac OS styled window buttons
 - some windows animations
 
+## How to debug
+You can use GTK Inspector for some system apps like `xfce4-panel`
+```shell
+GTK_DEBUG=interactive xfce4-panel
+```
 
 ## What does it look like?
 https://www.reddit.com/r/unixporn/comments/17ocwta/xfce_my_first_xfce_rising/
