@@ -5,6 +5,9 @@
 - beautiful window switcher (Alt + Tab)
 - CSS-modified [Orchis Purple Dark](https://github.com/vinceliuice/Orchis-theme) theme
 - Mac OS styled window buttons
+- some windows animations
+
+
 ## What does it look like?
 https://www.reddit.com/r/unixporn/comments/17ocwta/xfce_my_first_xfce_rising/
 
