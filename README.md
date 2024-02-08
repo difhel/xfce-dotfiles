@@ -42,3 +42,6 @@ https://www.reddit.com/r/unixporn/comments/17ocwta/xfce_my_first_xfce_rising/
 ![image](https://github.com/difhel/xfce-dotfiles/assets/78644136/bae12d46-b4ce-4fb1-92f4-032b62fda3e5)
 
 ![image](https://github.com/difhel/xfce-dotfiles/assets/78644136/4560ecbc-66da-4cea-899d-d6e2d556c49b)
+
+## Issues
+If you encounter any issues, I urge you to try to figure it out yourself and submit a pull-request rather than creating an issue. This repository is the result of my experiment with XFCE. I don't use it all the time, I don't have access to a configured version of it, I'm unlikely to be able to help you fix any bug. But I'm always happy to improve my dotfiles and publish it publicly, so I look forward to your pull-requests!
