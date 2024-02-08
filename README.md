@@ -6,7 +6,7 @@
 - CSS-modified [Orchis Purple Dark](https://github.com/vinceliuice/Orchis-theme) theme
 - Mac OS styled window buttons
 - some windows animations
-- very beautiful `xfce4-panel` with plugins, customized with some GTK CSS
+- very beautiful `xfce4-panel` with plugins (action buttons, Verve command line, docklike taskbar, clock & date, Pulseaudio, status tray, launcher), customized with some GTK CSS
 
 ## How to use
 ### GTK Theme
