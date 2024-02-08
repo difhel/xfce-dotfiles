@@ -6,6 +6,22 @@
 - CSS-modified [Orchis Purple Dark](https://github.com/vinceliuice/Orchis-theme) theme
 - Mac OS styled window buttons
 - some windows animations
+- very beautiful `xfce4-panel` with plugins, customized with some GTK CSS
+
+## How to use
+### GTK Theme
+Copy `Orchis-Purple-Dark` to yours `/usr/share/themes`, then select this theme in XFCE settings application.
+
+### XFCE Panel
+1. Copy the GTK theme, because all of CSS modifications were inserted in `Orchis-Purple-Dark/gtk-3.0/gtk.css`
+2. Install this plugins and panel settings:
+
+    <img src="https://github.com/difhel/xfce-dotfiles/assets/78644136/8535a0b9-cb8a-4733-bba8-4b7f8a725b0f" width="300px"/>
+    <img src="https://github.com/difhel/xfce-dotfiles/assets/78644136/1782d0b5-d7f4-4b1a-87cc-04a7f77b14bb" width="300px"/>
+    <img src="https://github.com/difhel/xfce-dotfiles/assets/78644136/aa2f2b06-6f47-48d2-b234-7c14c9cc64f3" width="300px"/>
+
+
+
 
 ## How to debug
 You can use GTK Inspector for some system apps like `xfce4-panel`
